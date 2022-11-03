@@ -1,0 +1,82 @@
+﻿body {
+    background-color: greenyellow;
+}
+
+#container {
+    text-align: center;
+    height: 1000px;
+    width: 800px;
+}
+
+.lot {
+    width: 50px;
+}
+
+#tabletitle {
+    background-color: aqua;
+}
+
+table tr td {
+    border: 1px solid black;
+}
+
+#moneytable td {
+    background-color: lawngreen;
+}
+
+#money {
+    text-align: center;
+}
+
+.strong1 {
+    margin-left: 30px;
+    background-color: red;
+}
+
+#lotonum {
+    position: relative;
+    left: 550px;
+    top: 70px;
+}
+
+#game {
+    position: relative;
+    left: 550px;
+    top: 140px;
+}
+
+#guess {
+    width: 70%;
+    /*margin-right:30px;*/
+}
+
+#moneytable {
+    position: relative;
+    top: 210px;
+    left: 715px;
+}
+
+#lotonum table {
+    width: 70%;
+}
+
+h1 {
+    /*text-align: center ;*/
+    position: relative;
+    left: 420px;
+    font-size: 50px;
+    color: green;
+}
+
+.tab2td {
+    font-size: 20px;
+    background-color: yellow;
+}
+
+#numberslotto {
+    background-color: lightcoral;
+}
+
+#headcol {
+    background-color: lawngreen;
+}
